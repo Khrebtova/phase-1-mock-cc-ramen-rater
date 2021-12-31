@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Spicy Miso Ramen",
+      "restaurant": "ijji Noodle House",
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOHU7OXHSq6wJVgsOAtsWOIDMR6RpTPWGWulyH3=w1000-h1333-k-no",
+      "rating": "3",
+      "comment": "getting better",
+      "id": 6
     }
   ]
 }
